@@ -1,6 +1,6 @@
 baseURL = "http://gadogadobnb.com/"
 languageCode = "en-us"
-title = "Gado-gado BnB, Yogyakarta"
+title = "Gado-Gado BnB, Yogyakarta"
 theme = "accessible-minimalism"
 disableHugoGeneratorInject = true
 enableRobotsTXT = true
