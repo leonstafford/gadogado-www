@@ -1,0 +1,10 @@
+account_id = "69c736c51a7a73dccc0b83f75d3bedce"
+name = "workers-www-gadogado"
+type = "webpack"
+route = "gadogadobnb.com/*"
+workers_dev = false
+zone_id = "4aaaef3246d67a8ed931771ca4edaab8"
+
+[site]
+bucket = "public"
+entry-point = "workers-site"
